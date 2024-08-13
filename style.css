@@ -7,3 +7,9 @@ body {
     /* Essa propriedade chama shorthand ou atalho */
     background: url(assets/bg-mobile.jpg) no-repeat top center/cover;
 }
+
+#container {
+    width: 360px;
+    height: 612px;
+    border: 1px solid red;
+}
