@@ -4,5 +4,6 @@ body {
     background-position: top center;
     background-size: cover; */
     
+    /* Essa propriedade chama shorthand ou atalho */
     background: url(assets/bg-mobile.jpg) no-repeat top center/cover;
 }
