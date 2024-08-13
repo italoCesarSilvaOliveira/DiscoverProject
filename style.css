@@ -14,3 +14,12 @@ body {
     border: 1px solid red;
     margin: auto;
 }
+
+/* 
+    * Comentários de Estilização *
+    * 1. Normalmente não se coloca a altura "height:" dentro das propriedades
+    do css, pois a altura tende seguir ao elemento da página.
+    * 2. 
+
+
+*/
