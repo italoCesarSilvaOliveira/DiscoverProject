@@ -75,6 +75,17 @@ ul li a:hover{
     background: rgba(255, 255, 255, 0.05);
 }
 
+#social-links {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+
+  padding: 24px;
+  font-size: 24px;
+}
+
 /* 
     * Comentários de Estilização *
     * 1. Normalmente não se coloca a altura "height:" dentro das propriedades
