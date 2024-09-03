@@ -7,6 +7,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -32,6 +33,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLink é um projeto que tem como objetivo criar links uteis para facilitar o acesso
 de projetos pessoais e contribuições que eu possa ter feito. 
+
+## 📘 Aprendizado
+
+  - Reforço de Conhecimento: Fiz esse projetinho para poder reforçar o meu conhecimento em
+  tecnologias WEB. Tenho objetivo de aperfeiçoar e conseguir utilizar tecnologias como ReactJS, React Native e NojeJS de forma mais inteligente, para isso, eu preciso reforçar, aprimorar e conseguir utilizar as tecnologias básicas sem dificuldades.
+  
+  - Adicionando Projeto ao Porfolio: Estou colocando mais um projeto prático dentro do meu portfólio
+
+  - Novo Conhecimento: Ver projetos de várias perspectivas me ajuda a ter uma ideia maior quando estou desenvolvendo um novo projeto. 
+
 
 ## 😄 Layout
 
