@@ -1,2 +1,57 @@
-# DiscoverProject
-🌐 Página DevLink pessoal criada com base em um projeto do curso Discover da Rocketseat 🚀. Esta página serve como um hub para todas as minhas conexões online, reunindo links para meu portfólio, redes sociais, e outros recursos em um design moderno e responsivo 💼. Ideal para centralizar e compartilhar minha presença digital!
+<h1 align="center">NLW #10 copa </h1>
+
+<p align="center">
+ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<p align="center">
+  <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
+</p>
+
+## 🧑‍💻 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e GitHub
+- Figma
+
+## 📃 Projeto
+
+O DevLink é um projeto que tem como objetivo criar links uteis para facilitar o acesso
+de projetos pessoais e contribuições que eu possa ter feito. 
+
+## 📘 Aprendizado
+
+  - Reforço de Conhecimento: Fiz esse projetinho para poder reforçar o meu conhecimento em
+  tecnologias WEB. Tenho objetivo de aperfeiçoar e conseguir utilizar tecnologias como ReactJS, React Native e NojeJS de forma mais inteligente, para isso, eu preciso reforçar, aprimorar e conseguir utilizar as tecnologias básicas sem dificuldades.
+  
+  - Adicionando Projeto ao Porfolio: Estou colocando mais um projeto prático dentro do meu portfólio
+
+  - Novo Conhecimento: Ver projetos de várias perspectivas me ajuda a ter uma ideia maior quando estou desenvolvendo um novo projeto. 
+
+
+## 😄 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/Z4ZNPIeUCYBxHmo1tBxkGy/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&t=mYaBMajW2qvRdkvE-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Ítalo César :wave: 
