@@ -32,6 +32,7 @@ body {
 
   /* Essa propriedade chama shorthand ou atalho */
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -88,8 +89,7 @@ body * {
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slide-in 0.4s forwards;
 }
 
 #switch span {
@@ -165,6 +165,35 @@ footer {
   text-align: center;
   padding: 24px 0;
 }
+
+
+/* --------------------------------------------------------------------- */
+/*                             Média Queries                             */
+/* --------------------------------------------------------------------- */
+
+@media (min-width: 700px){
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
+}
+
+/* --------------------------------------------------------------------- */
+/*                             Animations                                */
+/* --------------------------------------------------------------------- */
+
+@keyframes slide-in{
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+
 /* 
     * Comentários de Estilização *
     * 1. Normalmente não se coloca a altura "height:" dentro das propriedades
@@ -174,3 +203,4 @@ footer {
     * 4. Quando você aplica Flex em um pai, o seu elemento filho pega propriedades do flex
     * 5. Webkit é usado para que alguns navegadores aceitem a propriedade normalmente por causa da versão
 */
+
