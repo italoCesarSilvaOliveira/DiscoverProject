@@ -36,12 +36,13 @@ de projetos pessoais e contribuições que eu possa ter feito.
 
 ## 📘 Aprendizado
 
-  - Reforço de Conhecimento: Fiz esse projetinho para poder reforçar o meu conhecimento em
-  tecnologias WEB. Tenho objetivo de aperfeiçoar e conseguir utilizar tecnologias como ReactJS, React Native e NojeJS de forma mais inteligente, para isso, eu preciso reforçar, aprimorar e conseguir utilizar as tecnologias básicas sem dificuldades.
-  
-  - Adicionando Projeto ao Porfolio: Estou colocando mais um projeto prático dentro do meu portfólio
+<b>Reforço de Conhecimento:</b> Desenvolvi este projeto para consolidar meu conhecimento em HTML, CSS e JavaScript. Meu objetivo é dominar essas tecnologias fundamentais para construir aplicações web de forma eficiente e sem dificuldades.
 
-  - Novo Conhecimento: Ver projetos de várias perspectivas me ajuda a ter uma ideia maior quando estou desenvolvendo um novo projeto. 
+<b>Adição ao Portfólio:</b> Este projeto prático é uma nova adição ao meu portfólio, demonstrando minhas habilidades no uso de HTML, CSS, JavaScript e no gerenciamento de código com Git.
+
+<b>Aquisição de Novo Conhecimento:</b> Explorar diferentes abordagens em projetos me proporciona uma visão mais ampla, o que é extremamente valioso ao iniciar novos desenvolvimentos.
+
+<b>Aplicação de Nova Metodologia:</b> Utilizei a metodologia Git Flow para organizar o desenvolvimento do projeto. Criei branches específicas para implementar novas features, com a branch develop como base para integrações frequentes. Mesmo trabalhando sozinho, adotei essa metodologia para ganhar experiência prática.
 
 
 ## 😄 Layout
